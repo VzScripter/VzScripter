@@ -8,11 +8,11 @@
 <div align="left">
   <a href="#">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="30" alt="dev logo"  />
-      <img width="12" />
+      <img width="30" />
   </a>
   <a href="#">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-      <img width="12" />
+      <img width="30" />
   </a>
 </div>
 
