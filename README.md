@@ -22,6 +22,6 @@
 
 <br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" height="100" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" height="600" alt="Snake animation" />
 
 ###
