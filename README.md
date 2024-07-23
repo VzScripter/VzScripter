@@ -7,12 +7,10 @@
 
 <div align="left">
   <a href="#">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="dev logo"  />
-      <img width="30" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="30" height="30" alt="dev logo"  />
   </a>
   <a href="#">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua logo"  />
-      <img width="30" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30" height="30" alt="lua logo"  />
   </a>
 </div>
 
