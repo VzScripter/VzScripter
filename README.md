@@ -23,6 +23,6 @@
 
 <br clear="both">
 
-<a href="https://www.example.com" onclick="return false;">
+<a href="#">
     <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </a>
