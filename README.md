@@ -31,5 +31,5 @@
 
 <a href="#">
     <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-    <img height="50" />
+    <img height="100" />
 </a>
